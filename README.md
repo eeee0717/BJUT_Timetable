@@ -5,7 +5,7 @@
 ![image](./img/img2.png)
 
 ## 使用方法
-1. (下载Release中的exe文件)[https://github.com/eeee0717/BJUT_Timetable/releases/download/Release/release.zip]
+1. [下载Release中的exe文件](https://github.com/eeee0717/BJUT_Timetable/releases/download/Release/release.zip)
 2. 运行exe文件
 3. 将课表.doc文件转换为课表.docx文件(从研究生管理系统 课表查询中打印导出)
 4. 复制课表路径到输入框中
